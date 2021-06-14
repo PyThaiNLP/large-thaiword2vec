@@ -3,11 +3,13 @@
 
 **Latest release**: v0.1 (14 Jun 2021)
 
+**Download**: https://github.com/PyThaiNLP/large-thaiword2vec/releases/tag/v0.1
+
 **Tools**
 
 - PyThaiNLP 2.4dev from [b244359561](https://github.com/PyThaiNLP/pythainlp/tree/b24435956151569b035b85302992dcd2d303a7eb)
 - newmm for word segmentation
-- datasets for load OSCAR Corpus
+- datasets for load OSCAR Corpus (train)
 - Gensim 4.0 for built Word2Vec
 
 **Number**
