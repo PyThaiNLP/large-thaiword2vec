@@ -1,5 +1,5 @@
 # LTW2V: The Large Thai Word2Vec
-**LTW2V** is The large Thai Word2Vec. It built with PyThaiNLP 2.4dev from OSCAR Corpus (Open Super-large Crawled Aggregated coRpus).
+**LTW2V** is The large Thai Word2Vec. It built with oxidized-thainlp from OSCAR Corpus (Open Super-large Crawled Aggregated coRpus).
 
 **Latest release**: v0.1 (14 Jun 2021)
 
@@ -7,7 +7,7 @@
 
 **Tools**
 
-- PyThaiNLP 2.4dev from [b244359561](https://github.com/PyThaiNLP/pythainlp/tree/b24435956151569b035b85302992dcd2d303a7eb)
+- [oxidized-thainlp](https://github.com/PyThaiNLP/oxidized-thainlp) 1.0 with PyThaiNLP 2.4dev dict [b244359561](https://github.com/PyThaiNLP/pythainlp/tree/b24435956151569b035b85302992dcd2d303a7eb)
 - newmm for word segmentation
 - datasets for load OSCAR Corpus (train)
 - Gensim 4.0 for built Word2Vec
@@ -19,6 +19,8 @@
 - size: 400
 
 OSCAR Corpus: https://oscar-corpus.com/
+
+oxidized-thainlp: https://github.com/PyThaiNLP/oxidized-thainlp
 
 PyThaiNLP: [PyThaiNLP](https://pythainlp.github.io/)
 
