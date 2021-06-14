@@ -24,7 +24,7 @@ PyThaiNLP: [PyThaiNLP](https://pythainlp.github.io/)
 
 ## Citations
 
-If you use `PyThaiNLP` in your project or publication, please cite the library as follows
+If you use `LTW2V: The Large Thai Word2Vec` in your project or publication, please cite the library as follows
 
 ```
 Wannaphong Phatthiyaphaibun. (2021, Jun 14). LTW2V: The Large Thai Word2vec. GitHub. https://github.com/PyThaiNLP/large-thaiword2vec
