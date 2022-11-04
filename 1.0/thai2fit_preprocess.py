@@ -1,6 +1,8 @@
 # -*- coding: utf-8 -*-
 """
 Preprocessing for ULMFiT
+
+From https://github.com/PyThaiNLP/pythainlp/blob/dev/pythainlp/ulmfit/preprocess.py
 """
 import html
 import re
