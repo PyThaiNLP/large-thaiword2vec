@@ -2,6 +2,8 @@
 
 Download model from [https://zenodo.org/record/7280277](https://zenodo.org/record/7280277)
 
+Google Colab: [https://colab.research.google.com/drive/1vvT2d_OdY3ermFdnBuyXEz5FuoUdkrVX?usp=sharing](https://colab.research.google.com/drive/1vvT2d_OdY3ermFdnBuyXEz5FuoUdkrVX?usp=sharing)
+
 ## Sponsor Me!
 GitHub Sponsors: [![](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&link=https://github.com/sponsors/wannaphong/)](https://github.com/sponsors/wannaphong/)
 
